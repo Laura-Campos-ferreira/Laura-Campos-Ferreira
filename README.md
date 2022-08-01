@@ -7,7 +7,7 @@
 - 💻Entendo o basico de Java e estou dispota a aprender mais;
 - 💻Estou aprendendo Python;
 - 🔤Coompreendo muita coisa do inglês;
-![estudar-computador](https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif)
+- <img widht="150" height="150" src="https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif"> 
 - ⚽Torço para o flamengo;
 - 📚Procuro sempre estar aprendendo;
 - ✈ Gosto muito de viajar e conhcer outros lugares;
@@ -22,6 +22,5 @@
                         👨‍👩‍👧‍👦-fico com a minha familia;
                         📷-saio com meus amigos e gosto de registrar esses momentos;
                         🥙-cozinho. 
-![will-smith-fire](https://user-images.githubusercontent.com/110419223/182234728-9e5acd7f-446e-492f-a585-0e0fa4218ea6.gif)
-
+<img widht="200" height="200" src="https://user-images.githubusercontent.com/110419223/182234728-9e5acd7f-446e-492f-a585-0e0fa4218ea6.gif"> 
                         
