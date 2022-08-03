@@ -5,7 +5,8 @@
 - Estou no segundo ano do ensino medio;
 - 💻Segunda fase do curso de informática na SATC;
 - 💻Entendo o basico de Java e estou dispota a aprender mais;
-- 💻Estou aprendendo Python, C++ e HTML;
+- 💻Estou aprendendo Python e C++;
+- 💻 Desenvolvimento Web;
 - 🔤Coompreendo muita coisa do inglês;
 - <img widht="150" height="150" src="https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif"> 
 - 📚Procuro sempre estar aprendendo;
