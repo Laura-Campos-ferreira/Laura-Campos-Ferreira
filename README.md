@@ -10,7 +10,7 @@
 - <img widht="150" height="150" src="https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif"> 
 - 📚Procuro sempre estar aprendendo;
 - ✈ Gosto muito de viajar e conhcer outros lugares;
-- 😋Adoro cozinhar e conhecer a gastronomia de novos lugares;
+- 😋Adoro cozinhar e saborear a gastronomia de novos lugares;
 - 🐾Gosto muito de animais princpalmente gatos e cachorros;
 - 🎶Gosto de todo tipo de musica e sempre estou aberta para novos estilos musicais;
 - No meu tempo livre eu:
