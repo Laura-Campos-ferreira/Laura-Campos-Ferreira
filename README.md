@@ -5,10 +5,9 @@
 - Estou no segundo ano do ensino medio;
 - 💻Segunda fase do curso de informática na SATC;
 - 💻Entendo o basico de Java e estou dispota a aprender mais;
-- 💻Estou aprendendo Python;
+- 💻Estou aprendendo Python e C++;
 - 🔤Coompreendo muita coisa do inglês;
 - <img widht="150" height="150" src="https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif"> 
-- ⚽Torço para o flamengo;
 - 📚Procuro sempre estar aprendendo;
 - ✈ Gosto muito de viajar e conhcer outros lugares;
 - 😋Adoro cozinhar e conhecer a gastronomia de novos lugares;
