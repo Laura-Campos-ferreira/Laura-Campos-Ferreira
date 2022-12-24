@@ -2,8 +2,8 @@
 - IDADE: 16 anos;
 - INSTAGRAM: camos_llaura;
 - Santa Catarina;
-- Estou no segundo ano do ensino medio;
-- 💻Segunda fase do curso de informática na SATC;
+- Estou no Terceiro ano do ensino medio;
+- 💻Terceira fase do curso de informática na SATC;
 - 💻Entendo o basico de Java e estou dispota a aprender mais;
 - 💻Estou aprendendo Python e C++;
 - 💻 Desenvolvimento Web;
@@ -13,7 +13,7 @@
 - ✈ Gosto muito de viajar e conhcer outros lugares;
 - 😋Adoro cozinhar e saborear a gastronomia de novos lugares;
 - 🐾Gosto muito de animais princpalmente gatos e cachorros;
-- 🎶Gosto de todo tipo de musica e sempre estou aberta para novos estilos musicais;
+- 🎶Gosto de todo tipo de musica;
 - No meu tempo livre eu:
                         🎬-assisto series/filmes/videos;
                         📚-leio livros;
