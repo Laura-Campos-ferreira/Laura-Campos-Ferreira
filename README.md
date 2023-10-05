@@ -3,7 +3,7 @@
 - INSTAGRAM: camos_llaura;
 - Santa Catarina;
 - Estou no Terceiro ano do ensino medio;
-- 💻Terceira fase do curso de informática na SATC;
+- 💻Quarta fase do curso de informática na SATC;
 - 💻Entendo o basico de Java e estou disposta a aprender mais;
 - 💻Estou aprendendo Python e C++;
 - 💻 Desenvolvimento Web;
