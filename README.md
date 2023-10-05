@@ -8,7 +8,7 @@
 - 💻Estou aprendendo Python e C++;
 - 💻 Desenvolvimento Web;
 - 🔤Coompreendo muita coisa do inglês;
-- <img widht="150" height="150" src="https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif"> 
+ <img widht="150" height="150" src="https://user-images.githubusercontent.com/110419223/182233681-096d48d1-541e-4d21-8223-316442a9b571.gif"> 
 - ✈ Gosto muito de viajar e conhcer outros lugares;
 - 😋Adoro cozinhar e saborear a gastronomia de novos lugares;
 - 🐾Gosto muito de animais princpalmente gatos e cachorros;
